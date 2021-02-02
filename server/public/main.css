@@ -10,10 +10,11 @@
 
 .goose {
   position: absolute;
-  height: 20px;
-  width: 20px;
+  height: 30px;
+  width: 30px;
   display: block;
-  content: ':P';
-  line-height: 20px;
+  line-height: 30px;
+  text-align: center;
   background-color: blue;
+  color: white;
 }

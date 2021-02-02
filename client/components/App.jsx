@@ -5,7 +5,7 @@ const App = () => {
   return (
     <>
       <Field />
-     <h1>GOOOOOOOSE</h1>
+      <h1>Goose</h1>
     </>
   )
 }
